@@ -6,6 +6,10 @@ Mapbox geocode is the process of converting device tracker location into a human
 
 The sensor will update the address each time the device tracker location changes. If the device tracker is in a zone it will display the zone.
 
+### Credit
+
+Full credit for this component lies with [michaelmcarthur](https://github.com/michaelmcarthur).
+
 ### Installation:
 
 Copy the manifest.json file and place it in <config_dir>/custom_components/mapbox_geocode/manifest.json
